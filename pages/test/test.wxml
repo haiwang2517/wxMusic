@@ -1,0 +1,4 @@
+<view>
+<text>tset哈哈!</text>
+<text>{{name}}</text>
+</view>

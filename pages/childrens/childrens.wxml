@@ -1,0 +1,10 @@
+<view class="wrap">
+
+ <view wx:for="{{pictures}}" wx:for-item="item">
+      <view >
+        <image src="{{item.url}}" bindtap="previewImage" style="width: {{imagewidth}}px; height: {{imageheight}}px;" bindload="imageLoad"></image>
+      </view>
+      <view class='section__ctn'>{{item.text}}</view>
+    </view>
+
+</view>

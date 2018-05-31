@@ -1,0 +1,6 @@
+/* pages/childrens/childrens.wxss */
+
+.section__ctn{
+    text-align: center;
+     font-size: 16px;
+}

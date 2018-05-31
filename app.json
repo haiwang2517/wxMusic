@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/childrens/childrens",
+    "pages/test/test",
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "六一快乐亲爱的",
+    "navigationBarTextStyle":"black"
+  }
+}
